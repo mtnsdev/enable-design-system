@@ -1,0 +1,8 @@
+targets:
+  $default:
+    builders:
+      widgetbook_generator|widgetbook_generator:
+        enabled: true
+        options:
+          path: widgetbook
+

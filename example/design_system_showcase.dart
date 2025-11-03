@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:enable_web/core/design_system.dart';
-import 'package:enable_web/core/components/components.dart';
+import 'package:enable_design_system/enable_design_system.dart';
 
 /// Design System Showcase
 /// 
